@@ -1,4 +1,4 @@
-**# 💫 Holaaa! soy Andy Clemente
+# 💫 Holaaa! soy Andy Clemente
 Estudiante de Ingeniería Informática💛<br>Desarrollador especializado en aplicaciones móviles (Flutter) e IA, con experiencia en APIs FastAPI y arquitecturas RAG. 
 
 
@@ -14,5 +14,3 @@ Estudiante de Ingeniería Informática💛<br>Desarrollador especializado en apl
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AndyCG03&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->**
