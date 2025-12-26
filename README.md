@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Holaa!, soy Andy Clemente 👋</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&duration=2500&pause=1000&color=1CB698&center=true&vCenter=true&width=500&lines=Desarrollador+Móvil+%F0%9F%93%88;Ingeniero+de+IA+y+FastAPI;Especialista+en+Flutter" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=900&duration=2500&pause=1000&color=1CB698&center=true&vCenter=true&width=500&lines=Ingeniero+de+Software;Programador+Fullstack;Desarrollador+Mobile;Entusiasta+de+la+IA" /></a>
 
 ## 👨‍💻 Acerca de Mí:
 - 🎓 **4to año de Ingeniería Informática** en CUJAE - Graduación prevista: 2026
@@ -64,12 +63,8 @@
 
 ## 📊 Estadísticas de GitHub:
 <p align="center">
-  <img width="90%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndyCG03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndyCG03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=AndyCG03&theme=tokyonight&hide_border=false"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndyCG03&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=1CB698&text_color=ffffff&icon_color=1CB698"/>
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndyCG03&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=1CB698&text_color=ffffff"/>
 </p>
 
 ## 🌐 Conéctate Conmigo:
