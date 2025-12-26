@@ -1,8 +1,8 @@
 <div align="center">
 <h1>Holaa!, soy Andy Clemente 👋</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=900&duration=2500&pause=1000&color=1CB698&center=true&vCenter=true&width=500&lines=Ingeniero+de+Software;Programador+Fullstack;Desarrollador+Mobile;Entusiasta+de+la+IA" /></a>
-
-</div>
+<img src="perfil.jpg" style="width: 100%; max-width: 100%;">
+</div> 
 
 ## 👨‍💻 Acerca de Mí:
 - 🎓 **4to año de Ingeniería Informática** en CUJAE - Graduación prevista: 2026
