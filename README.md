@@ -2,6 +2,8 @@
 <h1>Holaa!, soy Andy Clemente 👋</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=900&duration=2500&pause=1000&color=1CB698&center=true&vCenter=true&width=500&lines=Ingeniero+de+Software;Programador+Fullstack;Desarrollador+Mobile;Entusiasta+de+la+IA" /></a>
 
+</div>
+
 ## 👨‍💻 Acerca de Mí:
 - 🎓 **4to año de Ingeniería Informática** en CUJAE - Graduación prevista: 2026
 - 💼 **Programador Técnico** especializado en desarrollo móvil, IA y arquitecturas RAG
@@ -50,6 +52,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Database-1CB698?style=for-the-badge)
 
 ### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -60,11 +63,13 @@
 ### 🎨 Diseño & Herramientas
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ## 📊 Estadísticas de GitHub:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndyCG03&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=1CB698&text_color=ffffff&icon_color=1CB698"/>
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndyCG03&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=1CB698&text_color=ffffff"/>
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndyCG03&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=1CB698&text_color=ffffff&icon_color=1CB698"/>
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndyCG03&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=1CB698&text_color=ffffff"/>
 </p>
 
 ## 🌐 Conéctate Conmigo:
