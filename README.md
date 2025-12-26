@@ -1,5 +1,5 @@
-# 💫 Holaaa! soy Andy Clemente
-Estudiante de Ingeniería Informática💛<br>Desarrollador especializado en aplicaciones móviles (Flutter) e IA, con experiencia en APIs FastAPI y arquitecturas RAG. 
+# 🚀Holaaa! soy Andy Clemente
+💻Estudiante de Ingeniería Informática💛<br>Desarrollador especializado en aplicaciones móviles (Flutter) e IA, con experiencia en APIs FastAPI y arquitecturas RAG. 
 
 
 ## 🌐 Redes:
