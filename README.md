@@ -73,28 +73,14 @@
 </p>
 
 ## 🌐 Conéctate Conmigo:
-[<a href="https://www.linkedin.com/in/andy-clemente/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="andy-clemente" height="50" width="50" /></a>
-<a href="mailto:andyclmentegago@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="28" width="35" /></a>
-<a href="https://github.com/AndyCG03" target="blank"><img align="center" src="https://github.com/fluidicon.png" alt="github" height="40" width="40" /></a>
-<a href="https://instagram.com/clemen_lens" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" height="40" width="40" /></a>
-<a href="https://x.com/AndyClemente6" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/1024px-X_icon_2.svg.png" height="40" width="40" /></a>](https://img.shields.io/badge/LinkedIn-%25230077B5.svg?logo=linkedin&logoColor=white
-https://img.shields.io/badge/Instagram-%2523E4405F.svg?logo=Instagram&logoColor=white
-https://img.shields.io/badge/X-%2523000000.svg?logo=X&logoColor=white
-https://img.shields.io/badge/GitHub-%2523121011.svg?logo=github&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andy-clemente)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clemen_lens)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/AndyClemente6)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AndyCG03)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:andyclmentegago@gmail.com)
 
 ---
 
 <div align="center">
-  
-### 🚀 "Transformando ideas"
-  
+
 </div>
-
-
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
