@@ -5,12 +5,12 @@
 </div> 
 
 ## 👨‍💻 About Me:
-- 🎓 **Computer Engineering** at CUJAE - Expected graduation: 2026
+- 🎓 **Software Engineer** - Software Engineering graduate from CUJAE (2026)
 - 💼 **Co-founder of Devisi**, my own software development venture
 - 🌟 **Specialized** in virtual assistants with RAG architectures, FastAPI, and ChromaDB, plus cross-platform apps with Flutter
 - 🏆 **Competitor** in international hackathons and competitive programming (Top 37 Caribbean in ICPC)
 - 🔭 Passionate about building **mobile apps** and **AI solutions**
-- 🌱 Currently diving deeper into **RAG architectures, FastAPI, and advanced Flutter**
+- 🌱 Passionate about **teaching**, having guided university students through programming fundamentals
 - 🤝 Open to **collaborations** and **job opportunities** in mobile development and AI
 
 ## 💼 Professional Experience:
