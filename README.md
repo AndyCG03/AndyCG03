@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1CB698,100:0D1117&height=220&section=header&text=Andy%20Clemente%20Gago&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Mobile%20Specialist&descAlignY=58&descSize=20" width="100%"/>
@@ -226,15 +227,20 @@ RAG-based platform for managing virtual assistants with local LLM execution, sem
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndyCG03&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=1CB698&text_color=ffffff&icon_color=1CB698&rank_icon=github"/>
-<img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndyCG03&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=1CB698&text_color=ffffff"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyCG03&theme=vue-dark&hide_border=true&background=0D1117&stroke=1CB698&ring=1CB698&fire=1CB698&currStreakLabel=1CB698"/>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=AndyCG03&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+  <!-- Estadísticas principales - Usa tu username directamente -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AndyCG03&show_icons=true&theme=vue-dark&bg_color=0D1117&title_color=1CB698&text_color=ffffff&icon_color=1CB698&hide_border=true&rank_icon=github"/>
+  
+  <!-- Lenguajes más usados -->
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyCG03&layout=compact&theme=vue-dark&bg_color=0D1117&title_color=1CB698&text_color=ffffff&hide_border=true"/>
+  
+  <br/>
+  
+  <!-- Rachas de contribuciones -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyCG03&theme=vue-dark&background=0D1117&stroke=1CB698&ring=1CB698&fire=1CB698&currStreakLabel=1CB698&hide_border=true"/>
+  
+  <br/>
+  
 </div>
-
-<br/>
 
 ## 🌐 Connect With Me
 
