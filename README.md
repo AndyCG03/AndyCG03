@@ -1,7 +1,4 @@
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1CB698,100:0D1117&height=220&section=header&text=Andy%20Clemente%20Gago&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Mobile%20Specialist&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="perfil.jpg" width="150" style="border-radius: 50%; border: 3px solid #1CB698;">
 
@@ -20,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-> Software Engineer (**CUJAE, 2026**) specialized in **RAG architectures**, **backend development with FastAPI**, and **cross-platform apps with Flutter**. Co-founder of **Devisi**, international competitor in hackathons and competitive programming (*Top 37 Caribbean — ICPC*), and passionate about teaching people to code.
+> Mobile-first Software Engineer (**CUJAE, 2026**) specialized in **RAG architectures**, **backend development with FastAPI**, and **cross-platform apps with Flutter**. Certified in AI Excellence (**CUJAE 2026**). Co-founder of **Devisi**, international competitor in hackathons and competitive programming (*Top 37 Caribbean — ICPC*), and passionate about teaching people to code.
 
 <table>
 <tr>
@@ -45,7 +42,7 @@ I combine engineering with teaching — programming mentor at CUJAE
 Name: Andy Clemente Gago
 Role: Software Engineer
 Stack: Python · Flutter · TypeScript
-Focus: AI · Mobile · Backend
+Focus: AI · Mobile · Backend · Design
 Languages: Spanish (native) · English (A2)
 Location: La Habana, Cuba 🇨🇺
 ```
@@ -216,38 +213,32 @@ RAG-based platform for managing virtual assistants with local LLM execution, sem
 
 <div align="center">
 
-[![Flutter Projects](https://img.shields.io/badge/📱_Flutter_Projects-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/AndyCG03?tab=repositories&q=flutter)
-[![Python Projects](https://img.shields.io/badge/🐍_Python_Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/AndyCG03?tab=repositories&q=python)
+[![Flutter Projects](https://img.shields.io/badge/📱_Flutter_Projects-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/AndyCG03?tab=repositories&language=dart)
+[![Python Projects](https://img.shields.io/badge/🐍_Python_Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/AndyCG03?tab=repositories&language=python)
+[![Web Projects](https://img.shields.io/badge/🌐_Web_Projects-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/AndyCG03?tab=repositories&language=javascript)
 [![All Projects](https://img.shields.io/badge/📂_View_All-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndyCG03?tab=repositories)
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <div align="center">
-  <!-- Estadísticas principales - Usa tu username directamente -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AndyCG03&show_icons=true&theme=vue-dark&bg_color=0D1117&title_color=1CB698&text_color=ffffff&icon_color=1CB698&hide_border=true&rank_icon=github"/>
-  
-  <!-- Lenguajes más usados -->
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyCG03&layout=compact&theme=vue-dark&bg_color=0D1117&title_color=1CB698&text_color=ffffff&hide_border=true"/>
-  
-  <br/>
-  
-  <!-- Rachas de contribuciones -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyCG03&theme=vue-dark&background=0D1117&stroke=1CB698&ring=1CB698&fire=1CB698&currStreakLabel=1CB698&hide_border=true"/>
-  
-  <br/>
-  
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyCG03&theme=vue-dark&background=0D1117&stroke=1CB698&ring=1CB698&fire=1CB698&currStreakLabel=1CB698&hide_border=true"/>
+
 </div>
+
+<br/>
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-1CB698?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andydev.devisisoft.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-clemente-gago-7590362a4)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clemen_lens)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ing.andyclemente)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AndyClemente6)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.andyclemente@gmail.com)
 
