@@ -237,7 +237,7 @@ RAG-based platform for managing virtual assistants with local LLM execution, sem
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-1CB698?style=for-the-badge&logo=googlechrome&logoColor=white)](https://andydev.devisisoft.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-clemente-gago-7590362a4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-clemente-gago)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ing.andyclemente)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AndyClemente6)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.andyclemente@gmail.com)
